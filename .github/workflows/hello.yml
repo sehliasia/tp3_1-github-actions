@@ -30,8 +30,7 @@ jobs:
           echo "Commit : $GITHUB_SHA"
           echo "Événement : $GITHUB_EVENT_NAME"
       
-      - name: Provoquer une erreur
-        run: exit 1
+      
 
       - name: Étape après erreur
         run: echo "Cette étape ne sera normalement pas exécutée"
