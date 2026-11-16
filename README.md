@@ -13,3 +13,5 @@ Création et configuration d'un pipeline Jenkins déclaratif.
 - Preparation
 - Build
 - Test
+## Test Poll SCM
+Modification pour tester le déclenchement automatique.
